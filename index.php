@@ -12,6 +12,7 @@
          <label for="nombre"Nombre="nombre" class="form-label">nombre</label>
          <input type="text"  class="form-label" id="nombre" name="nombre" required><br><br>
     </div>
+    //soloyop
     <div class="mb-3">
          <label for="especie"Nombre="especie" class="form-label">especie</label>
          <input type="text"  class="form-label" id="especie" name="especie" required><br><br>
